@@ -82,11 +82,21 @@
 
 // #components.adaptive-columns(outline(title: none, indent: 1em))
 
-= Animation
+= Background and Research Context
 
-== Simple Animation
+== Collective Systems in the Wearable Edge-Cloud Continuum
 
-#pdfpc.speaker-note("This is a note that only the speaker will see.")
+#components.side-by-side(columns: (2fr, auto))[
+#underline[Collective systems] are large-scale systems composed of several
+#bold[interconnected devices] that interact and collaborate to
+achieve *global common goals*.
+
+Traditionally, collective systems are considered as a "flat" network of devices, but the emergence of #bold[wearable devices] and the #bold[edge-cloud continuum] opens new research challenges and opportunities.
+
+In this new domain, the network is *highly heterogeneous* in terms of device capabilities, and the #bold[network topology] is #underline[dynamic], #underline[unpredictable], and #underline[multi-level].
+][
+  #figure(image("images/edge-cloud-continuum.svg", height: 60%))
+]
 
 // #set text(font: "Fira Sans", weight: 350, size: 20pt)
 // #show math.equation: set text(font: "Fira Math")
