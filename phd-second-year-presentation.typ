@@ -122,7 +122,7 @@
 #components.side-by-side(columns: (2fr, auto))[
   I implemented a *middleware* based on the pulverization partitioning model #cite(label("DBLP:journals/fgcs/FarabegoliPCV24")) showing how it can trade-offs between #bold[energy consumption] and #bold[infrastructure cost].
 
-  An orthogonal, and more general, model has been proposed #cite(label("DBLP:conf/acsos/FarabegoliVC24")) where the devices are represented as both *local* and *collective* components that can be deployed independently over the infrastructure.
+  I then proposed an orthogonal, and more general, model #cite(label("DBLP:conf/acsos/FarabegoliVC24")) where the devices are represented as both *local* and *collective* components that can be deployed independently over the infrastructure.
 
   The model has been #bold[formalized] and proved to be #underline[functional equivalent] to the analogous "flat" deployment. Moreover, energy efficiency and convergence time have been *evaluated through simulations* showing benefits over traditional approaches.
   // I proposed a #underline[partitioned macro-programming model] to program collective systems in the wearable edge-cloud continuum.
