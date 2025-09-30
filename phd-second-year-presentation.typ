@@ -100,7 +100,7 @@
 
 == Research Topics
 
-#components.side-by-side[
+#components.side-by-side(columns: (2fr, auto))[
   // To exploit the *potential* of collective systems in the wearable edge-cloud continuum, my research focuses on #bold[three] main topics:
 
   === Languages
@@ -113,4 +113,24 @@
   Developing #underline[efficient] and #underline[scalable] infrastructure solutions for *deploying* and *managing* _CASs_ in the _ECC_.
 ][
   #figure(image("images/research-topics.svg", height: 80%))
+]
+
+= Research Contributions
+
+== Deployment Models and Middleware
+
+#components.side-by-side(columns: (2fr, auto))[
+  I implemented a *middleware* based on the pulverization partitioning model #cite(label("DBLP:journals/fgcs/FarabegoliPCV24")) showing how it can trade-offs between #bold[energy consumption] and infrastructure #bold[cost].
+
+  An orthogonal, and more general, model has been proposed in #cite(label("DBLP:conf/acsos/FarabegoliVC24")) where the devices are composed of *local* or *collective* components that can be deployed independently over the infrastructure.
+
+  The model has been #bold[formalized] and proved to be #underline[functional equivalent] to the analogous "flat" deployment. Moreover, energy efficiency and convergence time have been *evaluated through simulations* showing benefits over traditional approaches.
+  // I proposed a #underline[partitioned macro-programming model] to program collective systems in the wearable edge-cloud continuum.
+
+  // The model allows developers to define #bold[logical components] that can be #bold[deployed] on different nodes of the continuum, based on their capabilities and the application requirements.
+
+  // I also developed a #underline[middleware] that implements the proposed model, providing mechanisms for #bold[component deployment], #bold[communication], and #bold[adaptation] to dynamic changes in the network topology.
+][
+  #figure(image("images/partitioned-macro-program.svg", height: 35%))
+  #figure(image("images/system-model.svg", height: 35%))
 ]
