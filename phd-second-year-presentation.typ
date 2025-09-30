@@ -134,3 +134,23 @@
   #figure(image("images/partitioned-macro-program.svg", height: 35%))
   #figure(image("images/system-model.svg", height: 35%))
 ]
+
+== Intelligent Reconfiguration
+
+I applied *macro-programming* techniques to develop a #underline[decentralized] and #underline[self-organizing] algorithm for the reconfiguration of collective systems in cloud-edge infrastructures #cite(label("DBLP:journals/iot/FarabegoliPCV24")).
+
+In this work, I simulated #underline[large-scale], #underline[variable topology] networks to evaluate the performance of the proposed algorithm by varying the #bold[infrastructure load], and considering #bold[node failures] and #bold[recoveries]. The approach *significantly outperforms* solutions that consider local reconfiguration rules.
+
+#figure(image("images/reconfiguration-algorithm.svg", height: 35%))
+
+#pagebreak()
+
+#components.side-by-side(columns: (2fr, auto))[
+  I also investigated the problem of #bold[automatic reconfiguration plan synthesis] for collective systems in cloud-edge infrastructures.
+
+Starting from the pulverization model, I proposed and *prolog-based planner* to automatically derive #bold[reconfiguration plans] that adapt the deployment of collective systems to changes in the infrastructure and application requirements #cite(label("DBLP:conf/coordination/BrogiCFFV25")).
+
+The approach has been evaluated in terms of #bold[carbon footprint] showing *significant improvements* compared to deployment on "flat" infrastructures.
+][
+#figure(image("images/alchemist-prolog.svg", height: 60%))
+]
