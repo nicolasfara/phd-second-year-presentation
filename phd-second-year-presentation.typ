@@ -3,6 +3,7 @@
 #import "@preview/fontawesome:0.6.0": *
 #import "@preview/ctheorems:1.1.3": *
 #import "@preview/numbly:0.1.0": numbly
+#import "@preview/fletcher:0.5.8" as fletcher: diagram, node, edge
 #import "utils.typ": *
 
 // Pdfpc configuration
@@ -45,21 +46,20 @@
     show-bibliography-as-footnote: bibliography(title: none, "bibliography.bib"),
   ),
   config-info(
-    title: [Presentation Title],
-    subtitle: [Subtitle],
+    title: [Engineering Collective Systems in the Wearable Edge-Cloud Continuum: Models and Platform],
+    subtitle: [Second Year PhD Presentation -- Cycle 39],
     author: author_list(
       (
         (first_author("Nicolas Farabegoli"), "nicolas.farabegoli@unibo.it"),
-        ("Foo Bar", "foo@bar.com"),
       )
     ),
     date: datetime.today().display("[day] [month repr:long] [year]"),
     institution: [University of Bologna],
-    logo: align(right)[#image("images/disi.svg", width: 55%)],
+    // logo: align(right)[#image("images/disi.svg", width: 55%)],
   ),
 )
 
-#set text(font: "Fira Sans", weight: "light", size: 20pt)
+#set text(font: "Fira Sans", weight: "light", size: 18pt)
 #show math.equation: set text(font: "Fira Math")
 
 #set raw(tab-size: 4)
@@ -87,100 +87,30 @@
 == Collective Systems in the Wearable Edge-Cloud Continuum
 
 #components.side-by-side(columns: (2fr, auto))[
-#underline[Collective systems] are large-scale systems composed of several
-#bold[interconnected devices] that interact and collaborate to
-achieve *global common goals*.
+  #underline[Collective systems] are large-scale systems composed of several
+  #bold[interconnected devices] that interact and collaborate to
+  achieve *global common goals*.
 
-Traditionally, collective systems are considered as a "flat" network of devices, but the emergence of #bold[wearable devices] and the #bold[edge-cloud continuum] opens new research challenges and opportunities.
+  Traditionally, collective systems are considered as a "flat" network of devices, but the emergence of #bold[wearable devices] and the #bold[edge-cloud continuum] opens new research challenges and opportunities.
 
-In this new domain, the network is *highly heterogeneous* in terms of device capabilities, and the #bold[network topology] is #underline[dynamic], #underline[unpredictable], and #underline[multi-level].
+  In this new domain, the network is *highly heterogeneous* in terms of device capabilities, and the #bold[network topology] is #underline[dynamic], #underline[unpredictable], and #underline[multi-level].
 ][
   #figure(image("images/edge-cloud-continuum.svg", height: 60%))
 ]
 
-// #set text(font: "Fira Sans", weight: 350, size: 20pt)
-// #show math.equation: set text(font: "Fira Math")
-// #set strong(delta: 200)
-// #set par(justify: true)
+== Research Topics
 
-// #set quote(block: true)
-// #show quote: set align(left)
-// #show quote: set pad(x: 2em, y: -0.8em)
+#components.side-by-side[
+  // To exploit the *potential* of collective systems in the wearable edge-cloud continuum, my research focuses on #bold[three] main topics:
 
-// #set raw(tab-size: 4)
-// #show raw.where(block: true): block.with(
-//   fill: luma(240),
-//   inset: 1em,
-//   radius: 0.7em,
-//   width: 100%,
-// )
+  === Languages
+  Designing #underline[domain-specific languages], #underline[type systems], and #underline[LLMs] to provide *high-level abstractions* for engineering _Collective Systems_.
 
-// #show bibliography: set text(size: 0.8em)
-// #show footnote.entry: it => {
-//   block(inset: (x: 2em, y: 0.1em))[#text(size: 0.75em)[#it.note.body]]
-// }
+  === Reconfiguration
+  Developing #underline[adaptive] and #underline[resilient] algorithms for the *self-management* of _Collective Adaptive Systems_ in the Cloud-Edge Continuum.
 
-// #let fcite(clabel) = {
-//   footnote(cite(form: "full", label(clabel)))
-// }
-
-// #let author = block(inset: 0.1em)[
-//   #table(inset: 0.5em, stroke: none, columns: (auto, 4fr),  align: (left, left),
-//     [#alert[*Author 1*]], [`author1@mail.com`],
-//     [Author 2], [`author2@mail.com`],
-//     [Author 3], [`author3@mail.com`],
-//   )
-//   #place(right, dy:-1.5em)[
-//     #figure(image("images/disi.svg", width:40%))
-//   ]
-// ]
-
-// #title-slide(
-//   title: "Slide Title",
-//   subtitle: "Subtitle",
-//   author: author,
-//   // date: datetime.today().display("[day] [month repr:long] [year]"),
-// )
-
-// #new-section-slide("Slide section 1")
-
-== Slide
-*Bold* and _italic_ text.
-
-This is a citation #cite(label("DBLP:journals/fgcs/FarabegoliPCV24")).
-This another citation #cite(label("DBLP:journals/iot/FarabegoliPCV24"))
-
-#alert[This is an alert.]
-
-== Code slide
-
-```kotlin
-fun main() {
-    println("Hello, world!")
-    for (i in 0..9) {
-        println(i)
-    }
-    println("Goodbye, world!")
-}
-```
-
-== Title and subtitle slide
-
-=== This is a subtitle
-
-#lorem(24)
-
-=== This is a subtitle
-
-#lorem(34)
-
-== FontAwesome icons
-
-=== Icon in a title #fa-java()
-
-#fa-icon("github") -- Github icon \
-#fa-icon("github", fill: blue) -- Github icon blue fill
-
-// #slide[
-//   #bibliography("bibliography.bib")
-// ]
+  === Infrastructure and Deployment
+  Developing #underline[efficient] and #underline[scalable] infrastructure solutions for *deploying* and *managing* _CASs_ in the _ECC_.
+][
+  #figure(image("images/research-topics.svg", height: 80%))
+]

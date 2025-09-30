@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="153.06598mm"
+   height="153.06598mm"
+   viewBox="0 0 153.06597 153.06597"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="research-topics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.98288771"
+     inkscape:cx="85.462458"
+     inkscape:cy="375.42437"
+     inkscape:window-width="2259"
+     inkscape:window-height="1193"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="76.532986,101.62731"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.501197,100.19513"
+       orientation="1,0"
+       id="guide14"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,31.749997,0,1 @ F,0,0,1,0,31.749997,0,1 @ F,0,0,1,0,31.749997,0,1 @ F,0,0,1,0,31.749997,0,1"
+       radius="120"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.36758,9.4333811)">
+    <path
+       style="fill:#ff8800;fill-opacity:0.30000001;stroke:#ff8800;stroke-width:7.2342;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.30000001"
+       d="M 113.31174,568.08624 C 93.849531,565.98929 73.684036,558.32034 57.579523,546.89125 49.365952,541.06222 37.203988,528.79674 31.156107,520.24293 24.772875,511.21482 18.627165,498.77968 15.332592,488.22587 10.324455,472.18284 10.18402,470.65076 9.792888,427.7901 L 9.4383082,388.93489 H 289.00388 568.56944 l -0.29451,40.76926 -0.2945,40.76926 -1.98217,8.03901 c -5.72264,23.20898 -14.81708,39.5229 -31.18783,55.94572 -14.39176,14.43755 -28.23059,22.999 -46.34495,28.67152 -18.21361,5.70359 -1.65272,5.2466 -195.61588,5.39803 -95.79819,0.0748 -176.59022,-0.12386 -179.53786,-0.44145 z"
+       id="path10"
+       transform="matrix(0.26458333,0,0,0.26458333,36.36758,-9.4333811)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c575f;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="150.56598"
+       height="150.56598"
+       x="37.61758"
+       y="-8.1833811"
+       inkscape:path-effect="#path-effect7"
+       sodipodi:type="rect"
+       d="m 69.367577,-8.1833811 h 87.065983 a 31.749997,31.749997 45 0 1 31.75,31.7499971 V 110.6326 a 31.749997,31.749997 135 0 1 -31.75,31.75 H 69.367577 A 31.749997,31.749997 45 0 1 37.61758,110.6326 V 23.566616 A 31.749997,31.749997 135 0 1 69.367577,-8.1833811 Z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#2c575f;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 37.617582,42.005283 H 188.18356"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#2c575f;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 37.617582,92.193946 H 188.18356"
+       id="path8" />
+    <path
+       style="fill:#006600;fill-opacity:0.3019608;stroke:#006600;stroke-width:7.2342;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.3019608"
+       d="M 9.5702484,289.40431 V 199.82679 H 289.0215 568.47275 v 89.57752 89.57753 H 289.0215 9.5702484 Z"
+       id="path11"
+       transform="matrix(0.26458333,0,0,0.26458333,36.36758,-9.4333811)" />
+    <path
+       style="fill:#6699ff;fill-opacity:0.3019608;stroke:#6699ff;stroke-width:4.95621;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.3019608"
+       d="m 9.839767,151.1963 c 0.216776,-41.77008 0.24291,-42.17362 3.565789,-55.061037 8.355693,-32.406611 30.467308,-59.573634 60.553434,-74.397847 14.818397,-7.301407 28.1936,-10.779703 45.3086,-11.7827585 11.18959,-0.655785 328.74101,-0.6482805 339.96004,0.00803 24.0792,1.4086355 44.56244,8.7757065 63.41968,22.8097415 20.62984,15.353242 36.2676,38.75744 42.51184,63.625138 3.31797,13.214023 3.34258,13.594093 3.55968,55.061003 l 0.19843,37.89743 H 289.2795 9.6417282 Z"
+       id="path12"
+       transform="matrix(0.26458333,0,0,0.26458333,36.36758,-9.4333811)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="75.802551"
+       y="112.07188"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5"
+         x="75.802551"
+         y="112.07188">Infrastructures</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5"
+         x="75.802551"
+         y="119.12744"
+         id="tspan13">and</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5"
+         x="75.802551"
+         y="126.18301"
+         id="tspan14">Deployments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="75.890747"
+       y="65.649696"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:2.5"
+         x="75.890747"
+         y="65.649696">Intelligent</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:2.5"
+         x="75.890747"
+         y="72.705254"
+         id="tspan16">Reconfiguration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="75.756683"
+       y="18.515495"
+       id="text17"><tspan
+         sodipodi:role="line"
+         style="stroke-width:2.5"
+         x="75.756683"
+         y="18.515495"
+         id="tspan19">Languages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="147.77423"
+       y="10.942054"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="147.77423"
+         y="10.942054">Domain Specific Languages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="147.77423"
+       y="19.879442"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="147.77423"
+         y="19.879442">Large Language Models</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="150.226"
+       y="59.733116"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="150.226"
+         y="59.733116">AI-driven</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="150.226"
+         y="64.700211"
+         id="tspan23">System Reconfiguration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="150.0235"
+       y="75.107582"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="150.0235"
+         y="75.107582">Declarative policies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="147.71249"
+       y="110.18627"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="147.71249"
+         y="110.18627">Runtime Management</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="147.77423"
+       y="120.05058"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="147.77423"
+         y="120.05058">Deployment Models</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="147.9471"
+       y="129.349"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.5"
+         x="147.9471"
+         y="129.349">Coordination Models</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2c575f;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.301961"
+       x="147.98907"
+       y="29.194828"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="stroke-width:2.5"
+         x="147.98907"
+         y="29.194828">Type Systems</tspan></text>
+    <path
+       style="fill:#2c575f;fill-opacity:1;stroke:#2c575f;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 112.90057,-6.9286667 V 142.3826"
+       id="path28" />
+  </g>
+</svg>
