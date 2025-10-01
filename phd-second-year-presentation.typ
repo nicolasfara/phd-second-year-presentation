@@ -204,21 +204,21 @@ I proposed an approach based on *large language models* to support developers in
   === Conference publications
   
   #text(size: 0.8em)[
-    1. Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti, Mirko Viroli. _Declarative Deployment Planning for Green Pulverised Collective Computational Systems_. COORDINATION 2025.
+    1. Antonio Brogi, Roberto Casadei, *Nicolas Farabegoli*, Stefano Forti, Mirko Viroli. _Declarative Deployment Planning for Green Pulverised Collective Computational Systems_. COORDINATION 2025.
 
-    2. Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini, Mirko Viroli. _A Demonstrator for Self-organizing Robot Teams_. COORDINATION 2025.
+    2. Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, *Nicolas Farabegoli*, Danilo Pianini, Mirko Viroli. _A Demonstrator for Self-organizing Robot Teams_. COORDINATION 2025.
 
-    3. Nicolas Farabegoli, Mirko Viroli, Roberto Casadei. _Flexible Self-organisation for the Cloud-Edge Continuum: a Macro-programming Approach_. ACSOS 2024.
+    3. *Nicolas Farabegoli*, Mirko Viroli, Roberto Casadei. _Flexible Self-organisation for the Cloud-Edge Continuum: a Macro-programming Approach_. ACSOS 2024.
 
-    4. Denys Grushchak, Jenna Kline, Danilo Pianini, Nicolas Farabegoli, Gianluca Aguzzi, Martina Baiardi, Christopher Stewart. _Decentralized Multi-Drone Coordination for Wildlife Video Acquisition_. ACSOS 2024.
+    4. Denys Grushchak, Jenna Kline, Danilo Pianini, *Nicolas Farabegoli*, Gianluca Aguzzi, Martina Baiardi, Christopher Stewart. _Decentralized Multi-Drone Coordination for Wildlife Video Acquisition_. ACSOS 2024.
 
-    5. Davide Domini, Gianluca Aguzzi, Nicolas Farabegoli, Mirko Viroli, Lukas Esterle. _Proximity-based Self-Federated Learning_. ACSOS 2024.
+    5. Davide Domini, Gianluca Aguzzi, *Nicolas Farabegoli*, Mirko Viroli, Lukas Esterle. _Proximity-based Self-Federated Learning_. ACSOS 2024.
 
-    6. Nicolas Farabegoli. _Intelligent Pulverised Collective-Adaptive Systems_. ACSOS 2024 - Companion.
+    6. *Nicolas Farabegoli*. _Intelligent Pulverised Collective-Adaptive Systems_. ACSOS 2024 - Companion.
 
-    7. Denys Grushchak, Jenna Kline, Danilo Pianini, Nicolas Farabegoli. _An Agent-Based Model of Directional Multi-Herds_. ACSOS 2024 - Companion.
+    7. Denys Grushchak, Jenna Kline, Danilo Pianini, *Nicolas Farabegoli*. _An Agent-Based Model of Directional Multi-Herds_. ACSOS 2024 - Companion.
 
-    8. Davide Domini, Nicolas Farabegoli, Gianluca Aguzzi, Mirko Viroli. _Towards Intelligent Pulverized Systems: a Modern Approach for Edge-Cloud Services_. WOA 2024.
+    8. Davide Domini, *Nicolas Farabegoli*, Gianluca Aguzzi, Mirko Viroli. _Towards Intelligent Pulverized Systems: a Modern Approach for Edge-Cloud Services_. WOA 2024.
   ]
 
   #pagebreak()
@@ -226,10 +226,10 @@ I proposed an approach based on *large language models* to support developers in
   === Journal publications
   
   #text(size: 0.8em)[
-    1. Nicolas Farabegoli, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Scalability through Pulverisation: Declarative deployment reconfiguration at runtime_. Future Generation Computer Systems, 161:545-558, 2024.
+    1. *Nicolas Farabegoli*, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Scalability through Pulverisation: Declarative deployment reconfiguration at runtime_. Future Generation Computer Systems, 161:545-558, 2024.
 
-    2. Nicolas Farabegoli, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Dynamic IoT deployment reconfiguration: A global-level self-organisation approach_. Internet of Things, 28:101412, 2024.
+    2. *Nicolas Farabegoli*, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Dynamic IoT deployment reconfiguration: A global-level self-organisation approach_. Internet of Things, 28:101412, 2024.
 
-    3. Gianluca Aguzzi, Nicolas Farabegoli, Mirko Viroli. _A Language-based Approach to Macroprogramming for IoT Systems through Large Language Models_. ACM Transactions on Internet of Things, 2025.
+    3. Gianluca Aguzzi, *Nicolas Farabegoli*, Mirko Viroli. _A Language-based Approach to Macroprogramming for IoT Systems through Large Language Models_. ACM Transactions on Internet of Things, 2025.
   ]
 ]
