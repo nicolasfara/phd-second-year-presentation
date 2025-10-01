@@ -203,7 +203,7 @@ I proposed an approach based on *large language models* to support developers in
 #slide(title: "Publications")[
   === Conference publications
   
-  #text(size: 0.7em)[
+  #text(size: 0.8em)[
     1. Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti, Mirko Viroli. _Declarative Deployment Planning for Green Pulverised Collective Computational Systems_. COORDINATION 2025.
 
     2. Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini, Mirko Viroli. _A Demonstrator for Self-organizing Robot Teams_. COORDINATION 2025.
@@ -225,7 +225,7 @@ I proposed an approach based on *large language models* to support developers in
 
   === Journal publications
   
-  #text(size: 0.7em)[
+  #text(size: 0.8em)[
     1. Nicolas Farabegoli, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Scalability through Pulverisation: Declarative deployment reconfiguration at runtime_. Future Generation Computer Systems, 161:545-558, 2024.
 
     2. Nicolas Farabegoli, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Dynamic IoT deployment reconfiguration: A global-level self-organisation approach_. Internet of Things, 28:101412, 2024.
