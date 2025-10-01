@@ -154,3 +154,82 @@ The approach has been evaluated in terms of #bold[carbon footprint] showing *sig
 ][
 #figure(image("images/alchemist-prolog.svg", height: 60%))
 ]
+
+#pagebreak()
+
+To deal with heterogeneity of the #underline[infrastructure], I proposed a *graph neural network* model to learn #bold[reconfiguration policies] for collective systems such infrastructure #cite(label("DBLP:conf/woa/DominiFAV24")).
+
+This model can #underline[adapt to changes] in the infrastructure and application requirements. Moreover, such approach is *fully distributed* and can *scale to large infrastructures*.
+
+#figure(image("images/gnn-ac-marl.svg", height: 50%))
+
+== Languages
+
+Designing and engineering #bold[collective systems] is notoriously difficult even if *domain-specific languages* have been proposed to #underline[abstract low-level details].
+
+I proposed an approach based on *large language models* to support developers in programming collective systems #cite(label("10.1145/3758326")). The approach has been evaluated with different LLMs and programming tasks in designing collective systems showing #bold[promising results].
+
+#components.side-by-side(columns: (2fr, auto))[
+  The approach uses a #bold[BoK] (Body of Knowledge) to guide the LLM in generating code in which the #underline[domain expert] knowledge is embedded.
+
+  A #underline[test suite] is then used to validate the generated code and provide feedback to the LLM for further refinement.
+][
+#figure(image("images/architecture-llm.svg", height: 45%))
+]
+
+= Ongoing and Future Work
+
+== Type Systems and Real Deployments
+
+#components.side-by-side(columns: (1fr, 1fr))[
+  === Type Systems for better CAS
+
+  I'm currently working on a *type system* for integrating #bold[collective specification] with other distributed approaches such as #underline[choreographies] and #underline[multitier] programming.
+
+  The unifying mechanism lies in the concept of *placement types* that allows to specify (at type-leve) where the computation should be performed in the infrastructure,
+  and to check statically that the program is #bold[deployment-consistent].
+
+  #v(2em)
+][
+  === Real Deployments of CAS
+
+  I'm also working on *close the gap* between #bold[simulations] and #bold[real deployments] of collective systems.
+
+  Such systems are usually #bold[evaluated through simulation]. However, real deployments are crucial to understand the *practical challenges* and *validate the effectiveness* of the proposed solutions in #underline[real-world scenarios].
+
+  To this aim, I'm designing a *low-cost testbed* based on #underline[rovers] to deploy and evaluate collective systems in real-world scenarios.
+]
+
+#slide(title: "Publications")[
+  === Conference publications
+  
+  #text(size: 0.7em)[
+    1. Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti, Mirko Viroli. _Declarative Deployment Planning for Green Pulverised Collective Computational Systems_. COORDINATION 2025.
+
+    2. Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini, Mirko Viroli. _A Demonstrator for Self-organizing Robot Teams_. COORDINATION 2025.
+
+    3. Nicolas Farabegoli, Mirko Viroli, Roberto Casadei. _Flexible Self-organisation for the Cloud-Edge Continuum: a Macro-programming Approach_. ACSOS 2024.
+
+    4. Denys Grushchak, Jenna Kline, Danilo Pianini, Nicolas Farabegoli, Gianluca Aguzzi, Martina Baiardi, Christopher Stewart. _Decentralized Multi-Drone Coordination for Wildlife Video Acquisition_. ACSOS 2024.
+
+    5. Davide Domini, Gianluca Aguzzi, Nicolas Farabegoli, Mirko Viroli, Lukas Esterle. _Proximity-based Self-Federated Learning_. ACSOS 2024.
+
+    6. Nicolas Farabegoli. _Intelligent Pulverised Collective-Adaptive Systems_. ACSOS 2024 - Companion.
+
+    7. Denys Grushchak, Jenna Kline, Danilo Pianini, Nicolas Farabegoli. _An Agent-Based Model of Directional Multi-Herds_. ACSOS 2024 - Companion.
+
+    8. Davide Domini, Nicolas Farabegoli, Gianluca Aguzzi, Mirko Viroli. _Towards Intelligent Pulverized Systems: a Modern Approach for Edge-Cloud Services_. WOA 2024.
+  ]
+
+  #pagebreak()
+
+  === Journal publications
+  
+  #text(size: 0.7em)[
+    1. Nicolas Farabegoli, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Scalability through Pulverisation: Declarative deployment reconfiguration at runtime_. Future Generation Computer Systems, 161:545-558, 2024.
+
+    2. Nicolas Farabegoli, Danilo Pianini, Roberto Casadei, Mirko Viroli. _Dynamic IoT deployment reconfiguration: A global-level self-organisation approach_. Internet of Things, 28:101412, 2024.
+
+    3. Gianluca Aguzzi, Nicolas Farabegoli, Mirko Viroli. _A Language-based Approach to Macroprogramming for IoT Systems through Large Language Models_. ACM Transactions on Internet of Things, 2025.
+  ]
+]
