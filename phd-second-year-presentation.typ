@@ -40,6 +40,7 @@
 #show: metropolis-theme.with(
   aspect-ratio: "16-9",
   footer: self => self.info.institution,
+  header-right: [],
   config-common(
     // handout: true,
     preamble: pdfpc-config,
@@ -56,7 +57,7 @@
     ),
     date: datetime.today().display("[day] [month repr:long] [year]"),
     institution: [Alma Mater Studiorum -- Università di Bologna],
-    // logo: align(right)[#image("images/disi.svg", width: 55%)],
+    logo: align(right)[#image("images/Seal_of_the_University_of_Bologna.svg", width: 38%)],
   ),
 )
 
