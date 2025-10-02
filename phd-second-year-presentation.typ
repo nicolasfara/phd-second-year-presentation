@@ -51,10 +51,11 @@
     author: author_list(
       (
         (first_author("Nicolas Farabegoli"), "nicolas.farabegoli@unibo.it"),
+        ([_Advisor_: prof. #bold[Mirko Viroli]], "mirko.viroli@unibo.it"),
       )
     ),
     date: datetime.today().display("[day] [month repr:long] [year]"),
-    institution: [University of Bologna],
+    institution: [Alma Mater Studiorum -- Università di Bologna],
     // logo: align(right)[#image("images/disi.svg", width: 55%)],
   ),
 )
@@ -117,7 +118,7 @@
 
 = Research Contributions
 
-== Deployment Models and Middleware
+== Infrastructure and Deployment
 
 #components.side-by-side(columns: (2fr, auto))[
   I implemented a *middleware* based on the pulverization partitioning model #cite(label("DBLP:journals/fgcs/FarabegoliPCV24")) showing how it can trade-offs between #bold[energy consumption] and #bold[infrastructure cost].
