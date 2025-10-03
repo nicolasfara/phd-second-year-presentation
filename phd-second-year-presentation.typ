@@ -52,7 +52,7 @@
     author: author_list(
       (
         (first_author("Nicolas Farabegoli"), "nicolas.farabegoli@unibo.it"),
-        ([_Advisor_: prof. #bold[Mirko Viroli]], "mirko.viroli@unibo.it"),
+        ([_Advisor_: prof. Mirko Viroli], ""),
       )
     ),
     date: datetime.today().display("[day] [month repr:long] [year]"),
@@ -100,7 +100,11 @@
   #figure(image("images/edge-cloud-continuum.svg", height: 60%))
 ]
 
-== Research Topics
+=== Project Funding
+
+My work is supported by the Italian _PRIN Project_ #bold[COMMON-WEARS] (2020HCWWLP).
+
+== Research Topics -- and contributions areas
 
 #components.side-by-side(columns: (2fr, auto))[
   // To exploit the *potential* of collective systems in the wearable edge-cloud continuum, my research focuses on #bold[three] main topics:
@@ -122,9 +126,9 @@
 == Infrastructure and Deployment
 
 #components.side-by-side(columns: (2fr, auto))[
-  I implemented a *middleware* based on the pulverization partitioning model #cite(label("DBLP:journals/fgcs/FarabegoliPCV24")) showing how it can trade-offs between #bold[energy consumption] and #bold[infrastructure cost].
+  It was implemented a *middleware* based on the pulverization partitioning model #cite(label("DBLP:journals/fgcs/FarabegoliPCV24")) showing how it can trade-offs between #bold[energy consumption] and #bold[infrastructure cost].
 
-  I then proposed an orthogonal, and more general, model #cite(label("DBLP:conf/acsos/FarabegoliVC24")) where the devices are represented as both *local* and *collective* components that can be deployed independently over the infrastructure.
+  Then, it was proposed an orthogonal, and more general, model #cite(label("DBLP:conf/acsos/FarabegoliVC24")) where the devices are represented as both *local* and *collective* components that can be deployed independently over the infrastructure.
 
   The model has been #bold[formalized] and proved to be #underline[functional equivalent] to the analogous "flat" deployment. Moreover, energy efficiency and convergence time have been *evaluated through simulations* showing benefits over traditional approaches.
   // I proposed a #underline[partitioned macro-programming model] to program collective systems in the wearable edge-cloud continuum.
@@ -139,27 +143,28 @@
 
 == Intelligent Reconfiguration
 
-I applied *macro-programming* techniques to develop a #underline[decentralized] and #underline[self-organizing] algorithm for the reconfiguration of collective systems in cloud-edge infrastructures #cite(label("DBLP:journals/iot/FarabegoliPCV24")).
+*Macro-programming* techniques has been proposed to develop a #underline[decentralized] and #underline[self-organizing] algorithm for the reconfiguration of collective systems in cloud-edge infrastructures #cite(label("DBLP:journals/iot/FarabegoliPCV24")).
 
-In this work, I simulated #underline[large-scale], #underline[variable topology] networks to evaluate the performance of the proposed algorithm by varying the #bold[infrastructure load], and considering #bold[node failures] and #bold[recoveries]. The approach *significantly outperforms* solutions that consider local reconfiguration rules.
+In this work, it was simulated a #underline[large-scale], #underline[variable topology] networks to evaluate the performance of the proposed algorithm by varying the #bold[infrastructure load], and considering #bold[node failures] and #bold[recoveries].
+The approach *significantly outperforms* solutions that consider local reconfiguration rules.
 
 #figure(image("images/reconfiguration-algorithm.svg", height: 35%))
 
 #pagebreak()
 
 #components.side-by-side(columns: (2fr, auto))[
-  I also investigated the problem of #bold[automatic reconfiguration plan synthesis] for collective systems in cloud-edge infrastructures.
+  Was also investigated the problem of #bold[automatic reconfiguration plan synthesis] for collective systems in cloud-edge infrastructures.
 
-Starting from the pulverization model, I proposed and *prolog-based planner* to automatically derive #bold[reconfiguration plans] that adapt the deployment of collective systems to changes in the infrastructure and application requirements #cite(label("DBLP:conf/coordination/BrogiCFFV25")).
+  Starting from the pulverization model, it was proposed a *prolog-based planner* to automatically derive #bold[reconfiguration plans] that adapt the deployment of collective systems to changes in the infrastructure and application requirements #cite(label("DBLP:conf/coordination/BrogiCFFV25")).
 
-The approach has been evaluated in terms of #bold[carbon footprint] showing *significant improvements* compared to deployment on "flat" infrastructures.
+  The approach has been evaluated in terms of #bold[carbon footprint] showing *significant improvements* compared to deployment on "flat" infrastructures.
 ][
-#figure(image("images/alchemist-prolog.svg", height: 60%))
+  #figure(image("images/alchemist-prolog.svg", height: 60%))
 ]
 
 #pagebreak()
 
-To deal with heterogeneity of the #underline[infrastructure], I proposed a *graph neural network* model to learn #bold[reconfiguration policies] for collective systems such infrastructure #cite(label("DBLP:conf/woa/DominiFAV24")).
+To deal with heterogeneity of the #underline[infrastructure], it was proposed a *graph neural network* model to learn #bold[reconfiguration policies] for collective systems such infrastructure #cite(label("DBLP:conf/woa/DominiFAV24")).
 
 This model can #underline[adapt to changes] in the infrastructure and application requirements. Moreover, such approach is *fully distributed* and can *scale to large infrastructures*.
 
@@ -169,14 +174,14 @@ This model can #underline[adapt to changes] in the infrastructure and applicatio
 
 Designing and engineering #bold[collective systems] is notoriously difficult even if *domain-specific languages* have been proposed to #underline[abstract low-level details].
 
-I proposed an approach based on *large language models* to support developers in programming collective systems #cite(label("10.1145/3758326")). The approach has been evaluated with different LLMs and programming tasks in designing collective systems showing #bold[promising results].
+It was proposed an approach based on *large language models* to support developers in programming collective systems #cite(label("10.1145/3758326")). The approach has been evaluated with different LLMs and programming tasks in designing collective systems showing #bold[promising results].
 
 #components.side-by-side(columns: (2fr, auto))[
   The approach uses a #bold[BoK] (Body of Knowledge) to guide the LLM in generating code in which the #underline[domain expert] knowledge is embedded.
 
   A #underline[test suite] is then used to validate the generated code and provide feedback to the LLM for further refinement.
 ][
-#figure(image("images/architecture-llm.svg", height: 45%))
+  #figure(image("images/architecture-llm.svg", height: 45%))
 ]
 
 = Ongoing and Future Work
